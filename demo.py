@@ -1,3 +1,4 @@
+print("im venkatesh")
 print("starting")
 n=str(input("enter a string :"))
 a=""
