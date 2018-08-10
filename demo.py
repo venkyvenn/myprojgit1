@@ -1,4 +1,5 @@
 print("im venkatesh")
+print("this a enter a string to display reverse of string")
 print("starting")
 n=str(input("enter a string :"))
 a=""
